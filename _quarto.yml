@@ -1,8 +1,12 @@
+title: "Montessori Census Data Analysis"
 project:
   type: website
-  output-dir: docs  # GitHub Pages likes the 'docs' folder
-
+  output-dir: docs
+format:
+  html:
+    code-fold: true
 execute:
-  echo: false    # Hides the code, but shows the output (plots/tables)
-  warning: false # Hides Python warnings
-  error: false   # Prevents errors from showing up in the report
+  echo: false
+  warning: false
+  error: false
+jupyter: python3
