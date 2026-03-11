@@ -1,3 +1,8 @@
 project:
   type: website
   output-dir: docs  # GitHub Pages likes the 'docs' folder
+
+execute:
+  echo: false    # Hides the code, but shows the output (plots/tables)
+  warning: false # Hides Python warnings
+  error: false   # Prevents errors from showing up in the report
