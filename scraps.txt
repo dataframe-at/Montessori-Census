@@ -1,0 +1,3 @@
+
+https://trends.google.de/trends/api/widgetdata/multiline?hl=de&tz=-60&req=%7B%22time%22:%222021-03-13+2026-03-13%22,%22resolution%22:%22WEEK%22,%22locale%22:%22de%22,%22comparisonItem%22:%5B%7B%22geo%22:%7B%22country%22:%22AT%22%7D,%22complexKeywordsRestriction%22:%7B%22keyword%22:%5B%7B%22type%22:%22BROAD%22,%22value%22:%22montessori%22%7D%5D%7D%7D%5D,%22requestOptions%22:%7B%22property%22:%22%22,%22backend%22:%22IZG%22,%22category%22:0%7D,%22userConfig%22:%7B%22userType%22:%22USER_TYPE_LEGIT_USER%22%7D%7D&token=ANF58QkAAAAAabUNtleEPAtKlV3Q3raDhD1uIZTBN81a&tz=-60
+
